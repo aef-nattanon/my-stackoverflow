@@ -1,23 +1,50 @@
 {
   "name": "my-stackoverflow",
-	"displayName": "my-stackoverflow",
+	"displayName": "My Stackoverflow",
 	"description": "vscode extension for stackoverflow code recommendation",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.59.0"
 	},
+	"icon": "ui/logo-512.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aef-nattanon/my-stackoverflow.git"
+	},
+	"license": "MIT",
+	"homepage": "https://github.com/aef-nattanon/my-stackoverflow/blob/master/README.md",
+	"bugs": {
+		"url": "https://github.com/aef-nattanon/my-stackoverflow/issues",
+		"email": "aef.nattanon@gmail.com"
+	},
+	"keywords": [
+		"Stackoverflow",
+		"Integrated Stackoverflow",
+		"Search Bugs",
+		"Bugs",
+		"Stackoverflow answers"
+	],
+	"author": {
+		"name": "aef.nattanon"
+	},
 	"categories": [
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:my-stackoverflow.helloWorld"
+        "onCommand:my-stackoverflow.myView"
 	],
 	"main": "./dist/extension.js",
 	"contributes": {
+		"keybindings":[
+			{
+				"command": "my-stackoverflow.myView",
+				"key": "ctrl+k s"
+			}
+		],
 		"commands": [
 			{
-				"command": "my-stackoverflow.helloWorld",
-				"title": "Hello World"
+				"command": "my-stackoverflow.myView",
+				"title": "Open My StackOverflow"
 			}
 		]
 	},
