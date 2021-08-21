@@ -38,7 +38,7 @@
 		"keybindings":[
 			{
 				"command": "my-stackoverflow.myView",
-				"key": "ctrl+k s"
+				"key": "ctrl+k f"
 			}
 		],
 		"commands": [
