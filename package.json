@@ -3,7 +3,7 @@
 	"displayName": "My Stackoverflow",
 	"description": "vscode extension for stackoverflow code recommendation",
 	"version": "0.0.1",
-	"publisher": "nattanon",
+	"publisher": "aefnattanon",
 	"engines": {
 		"vscode": "^1.59.0"
 	},
