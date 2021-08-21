@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Released]
 
+## ✅ [0.1.0] - 2021-08-22
+
+### Removed
+
+- .vsix files
+
 ## ✅ [0.0.5] - 2021-08-22
 
 ### Removed
@@ -22,19 +28,19 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - README.md
 
-## ✅ [0.0.3] - 2021-08-22
+## ✅ [0.0.3] - 2021-08-21
 
 ### Changed
 
 - package.json
 
-## ✅ [0.0.2] - 2021-08-22
+## ✅ [0.0.2] - 2021-08-21
 
 ### Fixed
 
 - class name
 
-## ✅ [0.0.1] - 2021-08-22
+## ✅ [0.0.1] - 2021-08-21
 
 ### Added
 
