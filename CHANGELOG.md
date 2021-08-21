@@ -4,11 +4,17 @@ All notable changes to the "my-stackoverflow" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## ✅ 0.0.4
+
+### Edited
+
+- README.md
+
 ## ✅ 0.0.3
 
 ### Edited
 
-- Package.json
+- package.json
 
 ## ✅ 0.0.2
 
