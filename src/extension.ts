@@ -11,7 +11,7 @@ export function activate(context: vscode.ExtensionContext) {
 		    // Create and show panel
 		const panel = vscode.window.createWebviewPanel(
 			'stackOverflow',
-			'My StackOverFlow 6430621001',
+			'My StackOverFlow 6430621001 Demo',
 			vscode.ViewColumn.Two,
 			{
 				enableScripts: true
