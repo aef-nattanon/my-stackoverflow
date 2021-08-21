@@ -4,13 +4,19 @@ All notable changes to the "my-stackoverflow" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## 0.0.2
+## ✅ 0.0.3
+
+### Edited
+
+- Package.json
+
+## ✅ 0.0.2
 
 ### Edited
 
 - class name
 
-## 0.0.1
+## ✅ 0.0.1
 
 ### Added
 

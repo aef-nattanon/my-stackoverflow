@@ -2,7 +2,7 @@
   "name": "my-stackoverflow",
 	"displayName": "My Stackoverflow",
 	"description": "vscode extension for stackoverflow code recommendation",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "aefnattanon",
 	"engines": {
 		"vscode": "^1.59.0"
@@ -19,17 +19,13 @@
 		"email": "aef.nattanon@gmail.com"
 	},
 	"keywords": [
-		"Stackoverflow",
-		"Integrated Stackoverflow",
-		"Search Bugs",
-		"Bugs",
-		"Stackoverflow answers"
+		"Stackoverflow"
 	],
 	"author": {
 		"name": "aef.nattanon"
 	},
 	"categories": [
-		"Other"
+		"Education"
 	],
 	"activationEvents": [
         "onCommand:my-stackoverflow.myView"
