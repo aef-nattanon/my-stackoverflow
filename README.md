@@ -2,10 +2,18 @@
 
 คือเครื่องมือที่ช่วย Developer👨‍💻 ในการค้นหา answer📜 ใน stackoverflow💡 ภายใน IDE
 
-## วิธีใช้ 🔧
+## How To Use 🔧
+
+### Window
 
 ```bash
 ctrl+k f
+```
+
+### Mac
+
+```bash
+control+k f
 ```
 
 ![ตัวอย่าง](docs/sample.gif)
