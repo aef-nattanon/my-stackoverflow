@@ -9,7 +9,7 @@ const html = `
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Integrated Stackoverflow Search</title>
         <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="https://thephukettrip.com/style2.css">
+        <link rel="stylesheet" href="https://thephukettrip.com/style-0.0.2.css">
         <!-- <link rel="stylesheet" href="https://raw.githubusercontent.com/aef-nattanon/vscode-integrated-stackoverflow/master/ui/style1.css"> -->
         <!-- <link rel="stylesheet" href="file:///Users/nattanon/Codes/tesis/vscode-integrated-stackoverflow/ui/style.css"> -->
         <link rel="shortcut icon" href="logo-192.png" type="image/x-icon">
@@ -26,7 +26,7 @@ const html = `
 
             </div>
         </div>
-        <script src="https://thephukettrip.com/script1.js"></script>
+        <script src="https://thephukettrip.com/script-0.0.2.js"></script>
         <!-- <script src="https://raw.githubusercontent.com/aef-nattanon/vscode-integrated-stackoverflow/master/ui/script.js"></script> -->
         <!-- <script src="file:///Users/nattanon/Codes/tesis/vscode-integrated-stackoverflow/ui/script.js"></script> -->
     </body>

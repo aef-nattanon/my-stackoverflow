@@ -4,6 +4,14 @@ All notable changes to the "my-stackoverflow" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## 0.0.2
 
-- Initial release
+### Edited
+
+- class name
+
+## 0.0.1
+
+### Added
+
+- Add init project

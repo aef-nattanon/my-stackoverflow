@@ -2,7 +2,7 @@
   "name": "my-stackoverflow",
 	"displayName": "My Stackoverflow",
 	"description": "vscode extension for stackoverflow code recommendation",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "aefnattanon",
 	"engines": {
 		"vscode": "^1.59.0"

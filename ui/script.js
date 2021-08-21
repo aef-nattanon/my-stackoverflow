@@ -16,7 +16,7 @@ const copyToClipboard = (str) => {
 function renderCopyButtons() {
   document.querySelectorAll("pre > code").forEach((code) => {
     code.innerHTML +=
-      '<button class="content-220499" onclick="copyToClipboard(this.parentElement.innerHTML.slice(0, this.parentElement.innerHTML.indexOf(\'content-220499\') - 15))">Copy</button>';
+      '<button class="content" onclick="copyToClipboard(this.parentElement.innerHTML.slice(0, this.parentElement.innerHTML.indexOf(\'content\') - 15))">Copy</button>';
   });
 }
 
