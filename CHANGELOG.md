@@ -6,6 +6,18 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Released]
 
+## ✅ [0.1.2] - 2021-08-22
+
+### Added
+
+- add style into `index.html` file.
+
+## ✅ [0.1.1] - 2021-08-23
+
+### Removed
+
+- removed useless functions.
+
 ## ✅ [0.1.0] - 2021-08-22
 
 ### Removed
